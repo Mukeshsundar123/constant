@@ -1,0 +1,3 @@
+let num : Int
+num = 43
+print(num)
